@@ -1,2 +1,13 @@
+# scala
 *.class
 *.log
+
+# idea
+*.iml
+*.ipr
+*.iws
+.idea
+.bsp
+out
+target
+
