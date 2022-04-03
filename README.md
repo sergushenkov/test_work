@@ -1,4 +1,4 @@
-# BEELINE Test Work
+# Test Work
 
 ## SQL
 [Текст задания по sql](sql/task_of_sql.txt)
