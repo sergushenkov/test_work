@@ -1,12 +1,12 @@
 # BEELINE Test Work
 
 ## SQL
-[Текст задания по sql](sql/task of sql.txt)
+[Текст задания по sql](sql/task_of_sql.txt)
 
 [Решение](sql/solutions.sql) - на PostgreSQL 11.6
 
 ## Spark
-[Текст задания по Spark](task of spark.txt)
+[Текст задания по Spark](task_of_spark.txt)
 
 [Решение](beeline_test_work.py)
 
